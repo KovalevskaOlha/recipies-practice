@@ -1,0 +1,98 @@
+[
+    {
+      "name": "Smoked salmon burger",
+      "time": "20",
+      "servings": 6,
+      "calories": 210,
+      "difficulty": 1,
+      "image": "https://assets.bonappetit.com/photos/62cc4eca787a907e535e8e7f/1:1/w_2580%2Cc_limit/0711-black-bean-burger-lede.jpg"
+    },
+    {
+      "name": "Tomatoes With Creamy Feta",
+      "time": "15",
+      "servings": 3,
+      "calories": 600,
+      "difficulty": 0,
+      "image": "https://assets.bonappetit.com/photos/62b4926736e0c90647da6b71/1:1/w_2580%2Cc_limit/0623-diana-yen-tomato-recipe-lede.jpg"
+    },
+    {
+      "name": "Spicy potato salad",
+      "time": "30",
+      "servings": 2,
+      "calories": 320,
+      "difficulty": 0,
+      "image": "https://assets.bonappetit.com/photos/62bf35ae872a6cfbb260f286/1:1/w_2580%2Cc_limit/0701-tj-recipe-potato-v2.jpg"
+    },
+    {
+      "name": "Chicken Biryani",
+      "time": "40",
+      "servings": 4,
+      "calories": 700,
+      "difficulty": 2,
+      "image": "https://assets.bonappetit.com/photos/5db1b689823b960008d8468d/1:1/w_2580%2Cc_limit/Chicken-Biryani-Lede-NEW.jpg"
+    },
+      {
+    "name": "Avocado Toast",
+    "time": "10",
+    "servings": 1,
+    "calories": 250,
+    "difficulty": 0,
+    "image": "https://s.lightorangebean.com/media/20240914152419/Vegan-Avocado-Toast_-doner.png"
+  },
+  {
+    "name": "Grilled Vegetable Skewers",
+    "time": "25",
+    "servings": 3,
+    "calories": 180,
+    "difficulty": 1,
+    "image": "https://www.allrecipes.com/thmb/qKjB1wIXuViFPoZsWqORmvxPzxc=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/229166-grilled-veggie-skewers-DDMFS-013-4x3-38df5f3275934280a930c09d660a332c.jpg"
+  },
+  {
+    "name": "Classic Margherita Pizza",
+    "time": "35",
+    "servings": 2,
+    "calories": 550,
+    "difficulty": 1,
+    "image": "https://cookingitalians.com/wp-content/uploads/2024/11/Margherita-Pizza.jpg"
+  },
+  {
+    "name": "Beef Tacos",
+    "time": "20",
+    "servings": 4,
+    "calories": 430,
+    "difficulty": 1,
+    "image": "https://www.onceuponachef.com/images/2023/08/Beef-Tacos.jpg"
+  },
+  {
+    "name": "Vegan Buddha Bowl",
+    "time": "30",
+    "servings": 2,
+    "calories": 370,
+    "difficulty": 1,
+    "image": "https://www.crazyvegankitchen.com/wp-content/uploads/2023/11/buddha-bowl-recipe.jpg"
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "time": "45",
+    "servings": 2,
+    "calories": 600,
+    "difficulty": 2,
+    "image": "https://images.getrecipekit.com/20250325120225-how-20to-20make-20chocolate-20molten-20lava-20cake-20in-20the-20microwave.png?width=650&quality=90&"
+  },
+  {
+  "name": "Shrimp Pad Thai",
+  "time": "35",
+  "servings": 3,
+  "calories": 520,
+  "difficulty": 2,
+  "image": "https://www.foodandwine.com/thmb/9Vb8WuiTba45J_7HEXV6M58bo2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Shrimp-Pad-Thai-FT-RECIPE0324-3132ca704bc0457e836127dbda403368.jpg"
+},
+{
+  "name": "Greek Salad",
+  "time": "15",
+  "servings": 2,
+  "calories": 200,
+  "difficulty": 0,
+  "image": "https://hips.hearstapps.com/hmg-prod/images/greek-salad-index-642f292397bbf.jpg?crop=0.888888888888889xw:1xh;center,top&resize=1200:*"
+}
+]

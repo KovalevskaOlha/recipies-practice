@@ -8,7 +8,7 @@
       "image": "https://assets.bonappetit.com/photos/62cc4eca787a907e535e8e7f/1:1/w_2580%2Cc_limit/0711-black-bean-burger-lede.jpg"
     },
     {
-      "name": "Tomatoes With Creamy Feta",
+      "name": "Tomatoes With Feta",
       "time": "15",
       "servings": 3,
       "calories": 600,
@@ -20,7 +20,7 @@
       "time": "30",
       "servings": 2,
       "calories": 320,
-      "difficulty": 0,
+      "difficulty": 3,
       "image": "https://assets.bonappetit.com/photos/62bf35ae872a6cfbb260f286/1:1/w_2580%2Cc_limit/0701-tj-recipe-potato-v2.jpg"
     },
     {
@@ -76,7 +76,7 @@
     "time": "45",
     "servings": 2,
     "calories": 600,
-    "difficulty": 2,
+    "difficulty": 3,
     "image": "https://images.getrecipekit.com/20250325120225-how-20to-20make-20chocolate-20molten-20lava-20cake-20in-20the-20microwave.png?width=650&quality=90&"
   },
   {
